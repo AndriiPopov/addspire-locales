@@ -330,6 +330,7 @@
             "followClub": "Follow club",
             "unfollowClub": "Unfollow club",
             "bookmark": "Bookmark",
+            "bookmarked": "Bookmarked",
             "unbookmark": "Unbookmark",
             "follow": "Follow {{name}}",
             "unfollow": "Unfollow {{name}}",
@@ -369,7 +370,11 @@
         "global_one": "Global club",
         "global_other": "Global clubs (without location)",
         "globalClubs": "Global clubs",
-        "search": "Search location"
+        "search": "Search location",
+        "radius": "Radius",
+        "searchLocation": "Search location",
+        "radiusKM": "+{{count}} km",
+        "radiusML": "+{{count}} ml"
     },
     "bonus": {
         "paid": "paid",
@@ -390,7 +395,9 @@
     "cookie": {
         "title": "Accept cookies from Addspire on this browser?",
         "info": "This website uses cookies to enhance the user experience. By using this website you agree with using cookies.",
-        "policy": "Read more about cookies policy"
+        "policy": "Read more about cookies policy",
+        "decline": "Decline",
+        "allow": "Allow cookies"
     },
     "head": {
         "title": "Addspire - Q&A clubs with experts, reputation, and coins",
