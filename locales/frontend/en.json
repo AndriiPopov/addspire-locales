@@ -5,7 +5,12 @@
     "contribution": "for contribution in ",
     "notDistributed": "as a not distributed bonus in ",
     "bonus": "as a bonus for contribution in ",
-    "coins": "coins"
+    "coins": "coins",
+    "empty": {
+      "title": "No coins",
+      "body": "You have not got any coins. To get coins try to give more valuable content in your clubs. You can earn Addspire coins fo your contribution from Addspire or as bonuses from other members.",
+      "readMore": "Read about coins"
+    }
   },
   "feed": {
     "newQuestion": "New question",
@@ -71,8 +76,6 @@
     "details": "Details",
     "bonus": "Bonus",
     "addBonus": "Add bonus",
-    "have_one": "You have: {{value}} coin",
-    "have_other": "You have: {{value}} coins",
     "current_one": "Current bonus: {{value}} coin",
     "current_other": "Current bonus: {{value}} coins",
     "after_one": "Bonus after save: {{value}} coin",
@@ -85,8 +88,10 @@
     "after_many": "Bonus after save: {{value}} coins",
     "current_few": "Current bonus: {{value}} coins",
     "current_many": "Current bonus: {{value}} coins",
-    "have_few": "You have: {{value}} coins",
-    "have_many": "You have: {{value}} coins"
+    "haveCoins_few": "You have: {{value}} coins",
+    "haveCoins_many": "You have: {{value}} coins",
+    "haveCoins_one": "You have: {{value}} coin",
+    "haveCoins_other": "You have: {{value}} coins"
   },
   "user": {
     "clubs_one": "{{count}} club ",
@@ -163,7 +168,11 @@
     "answer_many": "{{count}} answers",
     "answer_few": "{{count}} answers",
     "newAnswer_many": "Show {{count}} new answers",
-    "newAnswer_few": "Show {{count}} new answers"
+    "newAnswer_few": "Show {{count}} new answers",
+    "empty": {
+      "title": "No answers found",
+      "body": "There are no answers in this question at this moment. Be the first one to give an answer and help your local community. Your opinion is important for your community."
+    }
   },
   "login": {
     "welcome": "Welcome to Addspire",
@@ -262,7 +271,12 @@
     "expert_many": "Experts",
     "expert_other": "Experts",
     "expert_one": "Expert",
-    "expert_few": "Experts"
+    "expert_few": "Experts",
+    "empty": {
+      "title": "No questions found",
+      "body": "There are no questions in this club at this moment. Be the first one to start a conversation with your local experts.",
+      "askQuestions": "Ask question"
+    }
   },
   "clubProfile": {
     "chooseProfile": "Choose profile",
@@ -288,7 +302,13 @@
       "downvote": "For downvote",
       "accepted": "For accepted answer",
       "reputation": "reputation",
-      "in": "{{action}} in question "
+      "in": "{{action}} in question ",
+      "empty": {
+        "title": "No reputation gains",
+        "bodyOwner": "You have not any reputation in this club. Add more valuable content because your opinion is important to other members of this club.",
+        "bodyOther": "This user has not got any reputation for answers, questions and comments.",
+        "addContent": "Ask or answer questions"
+      }
     },
     "expert": "Expert",
     "grade": "Grade",
@@ -448,7 +468,8 @@
     "global_many": "Global clubs (without location)",
     "global_few": "Global clubs (without location)",
     "local_few": "Local clubs",
-    "local_many": "Local clubs"
+    "local_many": "Local clubs",
+    "permissions": "Permission to access location was denied. Allow access to location in your device settings."
   },
   "bonus": {
     "paid": "paid",
@@ -459,12 +480,17 @@
   "ui": {
     "resourceNotFound": "Resource is not found. It has been deleted, never existed, or you need to refresh the page.",
     "ofPage": "of",
-    "search": "Search",
+    "search": "Search by tag",
     "hide": "Hide",
     "confirm": "Confirm",
     "cancel": "Cancel",
     "confirmAction": "Confirm action",
-    "pleaseConfirm": "Please, confirm your action."
+    "pleaseConfirm": "Please, confirm your action.",
+    "network": {
+      "offline": "Your device is offline",
+      "reconnect": "Press to try again",
+      "serverDown": "No connection to server"
+    }
   },
   "cookie": {
     "title": "Accept cookies from Addspire on this browser?",
