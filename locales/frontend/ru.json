@@ -402,7 +402,8 @@
     "profile": "Профиль",
     "chooseLanguage": "Выберите язык",
     "tryApps": "Приложение",
-    "coinsTomorrow_other": "{{value}} монет"
+    "coinsTomorrow_other": "{{value}} монет",
+    "noConnection": "Нет подключения к серверу и не все языки загружены. Попробуйте позже."
   },
   "questionCard": {
     "buttons": {

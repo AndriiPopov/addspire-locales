@@ -402,7 +402,8 @@
     "chooseLanguage": "Choose language",
     "tryApps": "Mobile apps",
     "coinsTomorrow_few": "{{value}} coins",
-    "coinsTomorrow_many": "{{value}} coins"
+    "coinsTomorrow_many": "{{value}} coins",
+    "noConnection": "No connection to server and not all languages are loaded. Try later."
   },
   "questionCard": {
     "buttons": {
