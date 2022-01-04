@@ -223,7 +223,7 @@
     },
     "invite": {
       "info": "To invite new experts to the club you can generate an invite link. This link will be valid for 24 hours and can be used only one time.",
-      "generate": "Generate an invite link",
+      "generate": "Generate a  new invite link",
       "ready": "Your invite link is ready. Now you can copy and send it to the potential expert of your club.",
       "message": "Hello, I am inviting you to become a expert of my club on Addspire. To accept the invitation, simply click the link below:",
       "copy": "Share link",
@@ -470,7 +470,8 @@
     "global_few": "Global clubs (without location)",
     "local_few": "Local clubs",
     "local_many": "Local clubs",
-    "permissions": "Permission to access location was denied. Allow access to location in your device settings."
+    "permissions": "Permission to access location was denied. Allow access to location in your device settings.",
+    "location": "Location"
   },
   "bonus": {
     "paid": "paid",
