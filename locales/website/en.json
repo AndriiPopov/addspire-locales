@@ -117,9 +117,9 @@
     },
     "notice": "Please note, that the coins used in Addspire are an internal currency only. The coins cannot be withdrawn, deposited, bought or sold.",
     "allCoins": {
-      "text3": "on our platform.",
-      "text2": "100 000 000 Addspire coins ",
-      "text1": "There are "
+      "text2": "on our platform.",
+      "text1": "100 000 000 Addspire coins ",
+      "text0": "There are "
     }
   },
   "reputationRules": {
@@ -186,5 +186,12 @@
   "head": {
     "title": "Addspire - Q&A clubs with experts, reputation, and coins",
     "description": "On Addspire you can discuss and answer questions and anyone can join the discussion. In a club you connect with the top experts and you can choose the best contractor or business based on the reputation and answers. As an expert or business you have a great chance to show your expertise, customer care and build reputation by giving top answers. Anyone who makes contributions in a club in the form of valuable questions, answers and comments can earn coins distributed by Addspire or rewarded as a bonus."
+  },
+  "cookie": {
+    "title": "Accept cookies from Addspire on this browser?",
+    "info": "This website uses cookies to enhance the user experience. By using this website you agree with using cookies.",
+    "policy": "Read more about cookies policy",
+    "decline": "Decline",
+    "allow": "Allow cookies"
   }
 }

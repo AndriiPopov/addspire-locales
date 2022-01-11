@@ -61,10 +61,6 @@
     "upload": "upload photo",
     "name": "Club name",
     "description": "Description",
-    "location": "Location",
-    "global": "Global club",
-    "local": "Local club",
-    "cannotChange": "Location can be set only during the creation of the club and cannot be changed later.",
     "save": "Save"
   },
   "bookmarks": {
@@ -118,7 +114,8 @@
       "confirm2": "You will not be able to restore your account.",
       "deleteProfile": "Delete profile",
       "deleteProfileConfirm": "Are you sure you want to completely delete this profile?",
-      "other": "Other profiles"
+      "other": "Other profiles",
+      "incognitoDefault": "This profile is incognito and cannot be set as default. First, make this profile not incognito."
     },
     "clubs_many": "{{count}} clubs ",
     "clubs_few": "{{count}} clubs ",
@@ -143,7 +140,10 @@
     "location": "Location",
     "email": "Email",
     "phone": "Phone",
-    "save": "Save"
+    "save": "Save",
+    "incognito": "Incognito profile",
+    "incognitoInfo": "Incognito profiles are not visible in your main profile for other users and they cannot link your incognito profiles to your other profiles.",
+    "defaultProfileIncognito": "Default profile cannot be incognito. Choose another profile or make another profile default."
   },
   "chooseProfile": {
     "add": "Add a new profile",
@@ -172,7 +172,8 @@
     "empty": {
       "title": "No answers found",
       "body": "There are no answers in this question at this moment. Be the first one to give an answer and help your local community. Your opinion is important for your community."
-    }
+    },
+    "profileIsIncognito": "Your profile is incognito in this club. Other users cannot see your main profile and other profiles."
   },
   "login": {
     "welcome": "Welcome to Addspire",
@@ -276,6 +277,13 @@
       "title": "No questions found",
       "body": "There are no questions in this club at this moment. Be the first one to start a conversation with your local experts.",
       "askQuestions": "Ask question"
+    },
+    "profileIsIncognito": "Your profile is incognito in this club. Other users cannot see your main profile and other profiles.",
+    "showNew": {
+      "question_one": "Show {{count}} new question",
+      "question_other": "Show {{count}} new questions",
+      "question_few": "Show {{count}} new questions",
+      "question_many": "Show {{count}} new questions"
     }
   },
   "clubProfile": {
@@ -295,7 +303,8 @@
       "share": "{{name}} - a Q&A club on Addspire.",
       "edit": "Edit profile",
       "ban": "Ban",
-      "unban": "Unban"
+      "unban": "Unban",
+      "isIncognito": "This profile is incognito and you cannot visit the main profile of this user."
     },
     "gain": {
       "upvote": "For upvote",
@@ -471,7 +480,16 @@
     "local_few": "Local clubs",
     "local_many": "Local clubs",
     "permissions": "Permission to access location was denied. Allow access to location in your device settings.",
-    "location": "Location"
+    "location": "Location",
+    "cannotChange": "Location can be set only during the creation of the club and cannot be changed later. However, you can rename it.",
+    "renameLater": "You can rename the location at the next step.",
+    "setLocation": "Choose a location for your local club.",
+    "setAddress": "Add name for the location.",
+    "cannotChangeInRename": "Location can be set only during the creation of the club and cannot be changed later.",
+    "canRename": "While the location will reamin the same, you can rename it. For example, you can add the state, zip, country etc.",
+    "discard": "Discard",
+    "apply": "Apply",
+    "localtr_one": "asdasdasd"
   },
   "bonus": {
     "paid": "paid",
@@ -531,7 +549,11 @@
   },
   "reputationInHeader": {
     "expert": "Expert",
-    "banned": "Banned"
+    "banned": "Banned",
+    "becomeIncognito": "Become incognito",
+    "stopIncognito": "Exit incognito",
+    "becomeIncognitoInfo": "In incognito other users cannot see your other profiles. To become incognito, you need to make this profile incognito or use another incognito profile.",
+    "stopIncognitoInfo": "In incognito other users cannot see your other profiles. To exit incognito, you need to make this profile not incognito or use another not incognito profile."
   },
   "shareWebModal": {
     "share": "Share",
@@ -586,7 +608,8 @@
     "Club_added_to_bookmarked_list": "Club added to bookmarked list",
     "Club_removed_from_bookmarked_list": "Club removed from bookmarked list",
     "You_are_following": "You are following",
-    "You_are_not_following_anymore": "You are not following anymore"
+    "You_are_not_following_anymore": "You are not following anymore",
+    "Shared_from_Addspire": "Shared from Addspire"
   },
   "onboarding": {
     "title": "Welcome to Addspire",
