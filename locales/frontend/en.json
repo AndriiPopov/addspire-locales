@@ -479,7 +479,7 @@
     "global_few": "Global clubs (without location)",
     "local_few": "Local clubs",
     "local_many": "Local clubs",
-    "permissions": "Permission to access location was denied. Allow access to location in your device settings.",
+    "permissions": "To find experts, clubs and questions near your current location, Addspire needs permissions to access your location.",
     "location": "Location",
     "cannotChange": "Location can be set only during the creation of the club and cannot be changed later. However, you can rename it.",
     "renameLater": "You can rename the location at the next step.",
@@ -489,7 +489,8 @@
     "canRename": "While the location will reamin the same, you can rename it. For example, you can add the state, zip, country etc.",
     "discard": "Discard",
     "apply": "Apply",
-    "localtr_one": "asdasdasd"
+    "localtr_one": "asdasdasd",
+    "globalDescription": "Global clubs do not have a certain location because their experts can help people all over the world (e.g. online). Global clubs do not appear in the local search and can be found only in the global search."
   },
   "bonus": {
     "paid": "paid",
@@ -552,7 +553,7 @@
     "banned": "Banned",
     "becomeIncognito": "Become incognito",
     "stopIncognito": "Exit incognito",
-    "becomeIncognitoInfo": "In incognito other users cannot see your other profiles. To become incognito, you need to make this profile incognito or use another incognito profile.",
+    "becomeIncognitoInfo": "In incognito other users cannot see your other profiles. To become incognito, you need to make this profile incognito or use another incognito profile. You can do it in your Main profile > Edit profile",
     "stopIncognitoInfo": "In incognito other users cannot see your other profiles. To exit incognito, you need to make this profile not incognito or use another not incognito profile."
   },
   "shareWebModal": {
@@ -616,6 +617,7 @@
     "subtitle": "Here you can get answers from your local experts.",
     "subtitle2": "First choose your location and language.",
     "location": "Your location where you want to find experts",
-    "language": "Language of the Addspire UI"
+    "language": "Language of the Addspire UI",
+    "done": "Apply"
   }
 }
