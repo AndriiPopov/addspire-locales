@@ -511,7 +511,8 @@
       "offline": "Your device is offline",
       "reconnect": "Press to try again",
       "serverDown": "No connection to server"
-    }
+    },
+    "inQuestion": "In question: "
   },
   "cookie": {
     "title": "Accept cookies from Addspire on this browser?",
