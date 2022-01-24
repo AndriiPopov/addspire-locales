@@ -65,7 +65,11 @@
   },
   "bookmarks": {
     "clubs": "Clubs",
-    "questions": "Questions"
+    "questions": "Questions",
+    "empty": {
+      "title": "No bookmarks",
+      "body": "To bookmark clubs or questions, tap the bookmark button located on the clubs and questions screens."
+    }
   },
   "ask": {
     "question": "Question",
