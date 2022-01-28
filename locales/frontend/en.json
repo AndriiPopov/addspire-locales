@@ -137,10 +137,10 @@
   },
   "editProfile": {
     "upload": "Upload avatar image",
-    "label": "Label",
+    "label": "Profile label",
     "name": "Name",
-    "bio": "Bio",
-    "web": "Web",
+    "bio": "About me",
+    "web": "Website",
     "location": "Location",
     "email": "Email",
     "phone": "Phone",
