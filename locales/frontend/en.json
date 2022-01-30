@@ -624,5 +624,9 @@
     "location": "Your location where you want to find experts",
     "language": "Language of the Addspire UI",
     "done": "Apply"
+  },
+  "appsBanner": {
+    "hide": "Hide",
+    "info": "For a better experience use our apps!"
   }
 }
