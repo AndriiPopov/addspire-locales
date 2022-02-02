@@ -200,7 +200,7 @@
       "invite": "Invite experts",
       "become": "Become expert",
       "learn": "Learn more",
-      "willBe": "Your club will remain active for the first 14 days. After this period, the club will need to have at least 3 experts to be active. Otherwise, you and other members of the club will not be able to ask new questions.",
+      "willBe": "Your club will remain active for the first 14 days. After this period, the club will need to have at least 3 experts to be active. Otherwise, you and other members of the club will not be able to ask new questions. You can make any member of your club an expert: choose a member and press Make an expert button in the top right menu.",
       "is": "This club is not active and new content cannot be added."
     },
     "modals": {
