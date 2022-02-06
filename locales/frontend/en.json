@@ -288,7 +288,14 @@
       "question_other": "Show {{count}} new questions",
       "question_few": "Show {{count}} new questions",
       "question_many": "Show {{count}} new questions"
-    }
+    },
+    "pinned": {
+      "empty": {
+        "title": "No pinned questions",
+        "body": "You can pin upto 20 questions. To pin a question go to the chosen you want to pin and press Add to pinned in the top left menu."
+      }
+    },
+    "pinnedQuestions": "Pinned"
   },
   "clubProfile": {
     "chooseProfile": "Choose profile",
@@ -445,7 +452,9 @@
       "allAnswers": "See all answers ({{count}})",
       "photos_many": "+ {{count}} photos",
       "photos_few": "+ {{count}} photos",
-      "login": "Login or Sign Up to give your answer"
+      "login": "Login or Sign Up to give your answer",
+      "pin": "Add to pinned",
+      "unpin": "Remove from pinned"
     }
   },
   "typo": {
@@ -468,10 +477,10 @@
     "shouldBeMore_many": "Should be more than {{count}} characters long."
   },
   "location": {
-    "local_one": "Local club",
+    "local_one": "Local",
     "local_other": "Local clubs",
     "localClubs": "Local clubs",
-    "global_one": "Global club",
+    "global_one": "Global",
     "global_other": "Global clubs (without location)",
     "globalClubs": "Global clubs",
     "search": "Search location",
@@ -493,7 +502,6 @@
     "canRename": "While the location will reamin the same, you can rename it. For example, you can add the state, zip, country etc.",
     "discard": "Discard",
     "apply": "Apply",
-    "localtr_one": "asdasdasd",
     "globalDescription": "Global clubs do not have a certain location because their experts can help people all over the world (e.g. online). Global clubs do not appear in the local search and can be found only in the global search."
   },
   "bonus": {
