@@ -248,7 +248,7 @@
     },
     "buttons": {
       "member": "Member",
-      "join": "Join",
+      "join": "Follow",
       "requests": "Expert requests",
       "request": "Become expert",
       "leave": "Leave club",
@@ -370,7 +370,7 @@
     "ask": "Ask",
     "shareButton": "Share",
     "member": "Member",
-    "join": "Join",
+    "join": "Follow",
     "experts_few": "{{count}} Experts",
     "experts_many": "{{count}} Experts",
     "members_few": "{{count}} Members",
