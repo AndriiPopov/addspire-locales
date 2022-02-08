@@ -423,7 +423,8 @@
     "chooseLanguage": "Виберіть мову",
     "tryApps": "додаток",
     "coinsTomorrow_other": "{{value}} монет",
-    "noConnection": "Немає підключення до сервера та не всі мови завантажені. Спробуй пізніше."
+    "noConnection": "Немає підключення до сервера та не всі мови завантажені. Спробуй пізніше.",
+    "help": "Допомога та підтримка"
   },
   "questionCard": {
     "buttons": {
@@ -485,7 +486,7 @@
     "globalClubs": "Глобальні клуби",
     "search": "Локація пошуку",
     "radius": "Радіус",
-    "searchLocation": "Локація пошуку",
+    "searchLocation": "Пошук",
     "radiusKM": "+{{count}} км",
     "radiusML": "+{{count}} мл",
     "global_many": "Глобальні клуби (без локації)",
@@ -524,7 +525,8 @@
       "reconnect": "Натисніть, щоб повторити спробу",
       "serverDown": "Немає підключення до сервера"
     },
-    "inQuestion": "У питанні:"
+    "inQuestion": "У питанні:",
+    "done": "Застосувати"
   },
   "cookie": {
     "title": "Чи приймати файли cookie від Addspire у цьому браузері?",

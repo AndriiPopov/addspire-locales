@@ -423,7 +423,8 @@
     "tryApps": "Mobile apps",
     "coinsTomorrow_few": "{{value}} coins",
     "coinsTomorrow_many": "{{value}} coins",
-    "noConnection": "No connection to server and not all languages are loaded. Try later."
+    "noConnection": "No connection to server and not all languages are loaded. Try later.",
+    "help": "Help and support"
   },
   "questionCard": {
     "buttons": {
@@ -485,7 +486,7 @@
     "globalClubs": "Global clubs",
     "search": "Search location",
     "radius": "Radius",
-    "searchLocation": "Search location",
+    "searchLocation": "Search",
     "radiusKM": "+{{count}} km",
     "radiusML": "+{{count}} ml",
     "global_many": "Global clubs (without location)",
@@ -524,7 +525,8 @@
       "reconnect": "Press to try again",
       "serverDown": "No connection to server"
     },
-    "inQuestion": "In question: "
+    "inQuestion": "In question: ",
+    "done": "Done"
   },
   "cookie": {
     "title": "Accept cookies from Addspire on this browser?",
