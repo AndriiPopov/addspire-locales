@@ -424,7 +424,8 @@
     "coinsTomorrow_few": "{{value}} coins",
     "coinsTomorrow_many": "{{value}} coins",
     "noConnection": "No connection to server and not all languages are loaded. Try later.",
-    "help": "Help and support"
+    "help": "Help and support",
+    "settings": "Settings"
   },
   "questionCard": {
     "buttons": {
@@ -484,7 +485,7 @@
     "global_one": "Global",
     "global_other": "Global clubs (without location)",
     "globalClubs": "Global clubs",
-    "search": "Search location",
+    "search": "Search",
     "radius": "Radius",
     "searchLocation": "Search",
     "radiusKM": "+{{count}} km",
@@ -585,7 +586,8 @@
     "notifications": "Notifications",
     "wallet": "Wallet",
     "images": "Images",
-    "details": "Details"
+    "details": "Details",
+    "settings": "Settings"
   },
   "upload": {
     "warn0": "Insufficient permissions",

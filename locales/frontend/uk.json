@@ -424,7 +424,8 @@
     "tryApps": "додаток",
     "coinsTomorrow_other": "{{value}} монет",
     "noConnection": "Немає підключення до сервера та не всі мови завантажені. Спробуй пізніше.",
-    "help": "Допомога та підтримка"
+    "help": "Допомога та підтримка",
+    "settings": "Налаштування"
   },
   "questionCard": {
     "buttons": {
@@ -484,7 +485,7 @@
     "global_one": "Глобальний",
     "global_other": "Глобальні клуби (без локації)",
     "globalClubs": "Глобальні клуби",
-    "search": "Локація пошуку",
+    "search": "Пошук",
     "radius": "Радіус",
     "searchLocation": "Пошук",
     "radiusKM": "+{{count}} км",
@@ -585,7 +586,8 @@
     "notifications": "Сповіщення",
     "wallet": "Гаманець",
     "images": "Картинки",
-    "details": "Деталі"
+    "details": "Деталі",
+    "settings": "Налаштування"
   },
   "upload": {
     "warn0": "Недостатньо дозволів",

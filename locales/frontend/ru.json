@@ -424,7 +424,8 @@
     "tryApps": "Приложение",
     "coinsTomorrow_other": "{{value}} монет",
     "noConnection": "Нет подключения к серверу и не все языки загружены. Попробуйте позже.",
-    "help": "Помощь и поддержка"
+    "help": "Помощь и поддержка",
+    "settings": "Настройки"
   },
   "questionCard": {
     "buttons": {
@@ -484,7 +485,7 @@
     "global_one": "Глобальный",
     "global_other": "Глобальные клубы (без локации)",
     "globalClubs": "Глобальные клубы",
-    "search": "Локация поиска",
+    "search": "Поиск",
     "radius": "Радиус",
     "searchLocation": "Поиск",
     "radiusKM": "+{{count}} км",
@@ -585,7 +586,8 @@
     "notifications": "Уведомления",
     "wallet": "Кошелек",
     "images": "Картинки",
-    "details": "Детали"
+    "details": "Детали",
+    "settings": "Настройки"
   },
   "upload": {
     "warn0": "Недостаточно разрешений",
