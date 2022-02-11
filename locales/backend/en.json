@@ -71,6 +71,10 @@
     "bonus": {
       "title": "Bonus",
       "body": "You have got +{{bonus}} for your contribution in question {{question}}"
+    },
+    "newPost": {
+      "title": "New post",
+      "body": "{{name}} has added a new post in club {{clubName}}: {{question}}"
     }
   }
 }

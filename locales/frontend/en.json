@@ -28,7 +28,8 @@
       "body": "There are no clubs around your location. You can try to search in another location or to increase the readius. Otherwise, you can create the first club in your area and become an expert.",
       "createClub": "Create club",
       "changeLocation": "Change location"
-    }
+    },
+    "posts": "Posts"
   },
   "nots": {
     "newFollower": "You have a new follower in your profile in club",
@@ -65,7 +66,7 @@
   },
   "bookmarks": {
     "clubs": "Clubs",
-    "questions": "Questions",
+    "questions": "Questions & Posts",
     "empty": {
       "title": "No bookmarks",
       "body": "To bookmark clubs or questions, tap the bookmark button located on the clubs and questions screens."
@@ -91,7 +92,11 @@
     "haveCoins_few": "You have: {{value}} coins",
     "haveCoins_many": "You have: {{value}} coins",
     "haveCoins_one": "You have: {{value}} coin",
-    "haveCoins_other": "You have: {{value}} coins"
+    "haveCoins_other": "You have: {{value}} coins",
+    "title": "Title",
+    "content": "Text",
+    "bookmarkPost": "Bookmark post",
+    "post": "Publish"
   },
   "user": {
     "clubs_one": "{{count}} club ",
@@ -177,7 +182,9 @@
       "title": "No answers found",
       "body": "There are no answers in this question at this moment. Be the first one to give an answer and help your local community. Your opinion is important for your community."
     },
-    "profileIsIncognito": "Your profile is incognito in this club. Other users cannot see your main profile and other profiles."
+    "profileIsIncognito": "Your profile is incognito in this club. Other users cannot see your main profile and other profiles.",
+    "editPost": "Edit post",
+    "postOnAddspire": "post on Addspire"
   },
   "login": {
     "welcome": "Welcome to Addspire",
@@ -210,7 +217,8 @@
       "ask": "Ask question",
       "edit": "Edit club",
       "rule": "Change rules",
-      "banned": "Banned profiles"
+      "banned": "Banned profiles",
+      "addPost": "Add post"
     },
     "fab": {
       "ask": "Ask",
@@ -280,7 +288,9 @@
     "empty": {
       "title": "No questions found",
       "body": "There are no questions in this club at this moment. Be the first one to start a conversation with your local experts.",
-      "askQuestions": "Ask question"
+      "askQuestions": "Ask question",
+      "bodyPost": "There are no posts in this club at this moment. Be the first one to start a conversation with your local experts.",
+      "titlePost": "No questions found"
     },
     "profileIsIncognito": "Your profile is incognito in this club. Other users cannot see your main profile and other profiles.",
     "showNew": {
@@ -295,7 +305,8 @@
         "body": "You can pin upto 20 questions. To pin a question go to the chosen you want to pin and press Add to pinned in the top left menu."
       }
     },
-    "pinnedQuestions": "Pinned"
+    "pinnedQuestions": "Pinned",
+    "posts": "Posts"
   },
   "clubProfile": {
     "chooseProfile": "Choose profile",
@@ -355,9 +366,12 @@
         "title": "Nothing found",
         "bodyOwner": "You have not asked or answered questions in this club. Add more content because your opinion is important to other members of this club.",
         "bodyOther": "This user has not asked or answered questions in this club.",
-        "askQuestions": "Ask or answer questions"
+        "askQuestions": "Ask or answer questions",
+        "bodyOtherPost": "This user has not posted anything in this club.",
+        "bodyOwnerPost": "You have not posted any posts in this club. Add more content because your opinion is important to other members of this club."
       }
-    }
+    },
+    "posts": "Posts"
   },
   "clubCard": {
     "experts_one": "{{count}} Expert",
@@ -456,7 +470,9 @@
       "photos_few": "+ {{count}} photos",
       "login": "Login or Sign Up to give your answer",
       "pin": "Add to pinned",
-      "unpin": "Remove from pinned"
+      "unpin": "Remove from pinned",
+      "comment": "Comment",
+      "allComments": "See all comments ({{count}})"
     }
   },
   "typo": {
@@ -527,7 +543,10 @@
       "serverDown": "No connection to server"
     },
     "inQuestion": "In question: ",
-    "done": "Done"
+    "done": "Done",
+    "inPost": "In post: ",
+    "newVersion": "A new version of Addspire App is available. We recommend to update the app to access new features.",
+    "shortcuts": "Your favorites"
   },
   "cookie": {
     "title": "Accept cookies from Addspire on this browser?",
