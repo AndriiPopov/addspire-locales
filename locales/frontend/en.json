@@ -520,7 +520,9 @@
     "canRename": "While the location will reamin the same, you can rename it. For example, you can add the state, zip, country etc.",
     "discard": "Discard",
     "apply": "Apply",
-    "globalDescription": "Global clubs do not have a certain location because their experts can help people all over the world (e.g. online). Global clubs do not appear in the local search and can be found only in the global search."
+    "globalDescription": "Global clubs do not have a certain location because their experts can help people all over the world (e.g. online). Global clubs do not appear in the local search and can be found only in the global search.",
+    "localy": "Local",
+    "globaly": "Global"
   },
   "bonus": {
     "paid": "paid",
