@@ -29,7 +29,8 @@
       "createClub": "Create club",
       "changeLocation": "Change location"
     },
-    "posts": "Posts"
+    "posts": "Posts",
+    "search": "Search"
   },
   "nots": {
     "newFollower": "You have a new follower in your profile in club",
@@ -54,7 +55,8 @@
     "contribution_many": "Received {{count}} coins for your contribution in question",
     "contribution_few": "Received {{count}} coins for your contribution in question",
     "receivedNotDistributed_many": "Received {{count}} coins as not distributed bonus in question",
-    "receivedNotDistributed_few": "Received {{count}} coins as not distributed bonus in question"
+    "receivedNotDistributed_few": "Received {{count}} coins as not distributed bonus in question",
+    "notifications": "Notifications"
   },
   "createClub": {
     "edit": "Edit club",
@@ -70,7 +72,8 @@
     "empty": {
       "title": "No bookmarks",
       "body": "To bookmark clubs or questions, tap the bookmark button located on the clubs and questions screens."
-    }
+    },
+    "bookmarks": "Bookmarks"
   },
   "ask": {
     "question": "Question",
@@ -201,7 +204,8 @@
       "with10": "Anyone with a reputation 10+ can start discussions.",
       "with100": "Anyone with a reputation 100+ can start discussions.",
       "onlyExperts": "Only experts can start discussions.",
-      "save": "Save"
+      "save": "Save",
+      "editRule": "Edit club rules"
     },
     "banner": {
       "invite": "Invite experts",
@@ -252,7 +256,8 @@
       "info": "Note that all experts including you have equal rights and cannot delete other experts. Also, clubs can have no more than 8 experts."
     },
     "banned": {
-      "unban": "Unban this profile"
+      "unban": "Unban this profile",
+      "banned": "Banned"
     },
     "buttons": {
       "member": "Member",
@@ -548,7 +553,10 @@
     "done": "Done",
     "inPost": "In post: ",
     "newVersion": "A new version of Addspire App is available. We recommend to update the app to access new features.",
-    "shortcuts": "Your favorites"
+    "shortcuts": "Your favorites",
+    "textDetails": "Read more",
+    "settings": "Settings",
+    "images": "Images"
   },
   "cookie": {
     "title": "Accept cookies from Addspire on this browser?",
