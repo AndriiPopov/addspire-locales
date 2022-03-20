@@ -1,220 +1,220 @@
 {
-    "about": {
-        "title0": "Join one club with the top experts",
-        "text0": "On Addspire you can ask, discuss and answer questions, and anyone can join the discussion.",
-        "title1": "Get answers and find experts",
-        "text1": "In the clubs, you connect with the top experts and based on the reputation and answers you can choose the best one for your needs.",
-        "title2": "Build reputation and find customers",
-        "text2": "As an expert or business, you have a great chance to show your expertise, customer care and build a reputation by giving top answers.",
-        "title3": "Earn Addspire coins",
-        "text3": "Anyone who makes contributions in a club in the form of valuable questions, answers and comments can earn coins distributed by Addspire or rewarded as bonuses.",
-        "title4": "Get help from trusted experts",
-        "text4": "Addspire is a platform built by volunteers to help people find answers to important questions about refugees, protection, paperwork, support, donation and right actions during the war in Ukraine.",
-        "popularClubs": "Visit our popular clubs and ask questions to get help immediately",
-        "topClubs": "Top clubs",
-        "experts": "Experts",
-        "question_one": "Question",
-        "question_other": "Questions",
-        "question_many": "Questions",
-        "question_few": "Questions",
-        "post_one": "Post",
-        "post_other": "Posts",
-        "post_many": "Posts",
-        "post_few": "Posts",
-        "member_one": "Member",
-        "member_many": "Members",
-        "member_other": "Members",
-        "member_few": "Members",
-        "expert_many": "Experts",
-        "expert_other": "Experts",
-        "expert_one": "Expert",
-        "expert_few": "Experts"
+  "about": {
+    "title0": "Join one club with the top experts",
+    "text0": "On Addspire you can ask, discuss and answer questions, and anyone can join the discussion.",
+    "title1": "Get answers and find experts",
+    "text1": "In the clubs, you connect with the top experts and based on the reputation and answers you can choose the best one for your needs.",
+    "title2": "Build reputation and find customers",
+    "text2": "As an expert or business, you have a great chance to show your expertise, customer care and build a reputation by giving top answers.",
+    "title3": "Earn Addspire coins",
+    "text3": "Anyone who makes contributions in a club in the form of valuable questions, answers and comments can earn coins distributed by Addspire or rewarded as bonuses.",
+    "title4": "Get help from trusted experts",
+    "text4": "Addspire is a platform built by volunteers to help people find answers to important questions about refugees, protection, paperwork, support, donation and right actions during the war in Ukraine.",
+    "popularClubs": "Visit our popular clubs and ask questions to get help immediately",
+    "topClubs": "Top clubs",
+    "experts": "Experts",
+    "question_one": "Question",
+    "question_other": "Questions",
+    "question_many": "Questions",
+    "question_few": "Questions",
+    "post_one": "Post",
+    "post_other": "Posts",
+    "post_many": "Posts",
+    "post_few": "Posts",
+    "member_one": "Member",
+    "member_many": "Members",
+    "member_other": "Members",
+    "member_few": "Members",
+    "expert_many": "Experts",
+    "expert_other": "Experts",
+    "expert_one": "Expert",
+    "expert_few": "Experts"
+  },
+  "business": {
+    "getStarted": "Get started",
+    "description": {
+      "text1": "Get in front of your customers when they are looking for the information",
+      "text2": "Addspire hosts Q&A clubs where local businesses discuss and answer questions.",
+      "text3": "Your well-timed outstanding answer can turn people into valuable customers."
     },
-    "business": {
-        "getStarted": "Get started",
-        "description": {
-            "text1": "Get in front of your customers when they are looking for the information",
-            "text2": "Addspire hosts Q&A clubs where local businesses discuss and answer questions.",
-            "text3": "Your well-timed outstanding answer can turn people into valuable customers."
-        },
-        "benefits": {
-            "title1": "Get more customers",
-            "text1": "Show your expertise and exceptional customer care with your answers.",
-            "title2": "Bring traffic",
-            "text2": "Build your reputation in clubs and get more calls and visits.",
-            "title3": "Build reputation",
-            "text3": "Start the conversation with your customers even before the first contact.",
-            "title_": "Get results that are<br/>important for your business",
-            "title": {
-                "text1": "important for your business",
-                "text0": "Get results that are"
-            }
-        },
-        "steps": {
-            "title": "How it works",
-            "step1": {
-                "label": "Step 1",
-                "title": "Create a club",
-                "text": "Highlight what your club is about, add description and a feature image."
-            },
-            "step2": {
-                "label": "Step 2",
-                "title": "Invite experts",
-                "text1": "Invite your suppliers, partners, and even competitors to share the customers base. You just need to generate and send an invite link.",
-                "text0": "Experts are promoted on the club page and have equal rights."
-            },
-            "step3": {
-                "label": "Step 3",
-                "title": "Promote your club",
-                "text1": "Share the link to your club on your website and social profiles.",
-                "text0": "Encourage your current and potential customers to start discussions and ask questions in your club."
-            },
-            "step4": {
-                "label": "Step 4",
-                "title": "Turn people to customers",
-                "text1": "By giving answers, you start the dialogue with your customers even before they call or visit your business.",
-                "text0": "Give the best answers and show your expertise and customer care. Get more votes than others and build your reputation."
-            }
-        },
-        "title": {
-            "text0": "Grow your ",
-            "text1": "business",
-            "text2": " with Addspire for free"
-        }
+    "benefits": {
+      "title1": "Get more customers",
+      "text1": "Show your expertise and exceptional customer care with your answers.",
+      "title2": "Bring traffic",
+      "text2": "Build your reputation in clubs and get more calls and visits.",
+      "title3": "Build reputation",
+      "text3": "Start the conversation with your customers even before the first contact.",
+      "title_": "Get results that are<br/>important for your business",
+      "title": {
+        "text1": "important for your business",
+        "text0": "Get results that are"
+      }
     },
-    "clubRules": {
-        "title": "Club rules",
-        "text4": "Club rules on Addspire - Q&A clubs with experts, reputation, and coins",
-        "text0": {
-            "title": "Create club: ",
-            "body": "Anyone can create a club and join it on Addspire. All clubs are public, and knowledge is available to everyone."
-        },
-        "text1": {
-            "title": "Experts and active clubs: ",
-            "body": "The creator of a club becomes the first expert of this club. Clubs can have up to 8 experts and it becomes active when there are at least 3 experts. This rule does not apply to new clubs during the first 14 days after their creation."
-        },
-        "text2": {
-            "title": "Rights and ban: ",
-            "body": "All experts of a club have the same rights: edit the club, edit and delete questions, answers and comments, add experts and ban users."
-        },
-        "text3": {
-            "title": "Delete experts: ",
-            "body": "Experts cannot delete other experts from the club that’s why we recommend you to create clubs only with people you know and trust."
-        }
+    "steps": {
+      "title": "How it works",
+      "step1": {
+        "label": "Step 1",
+        "title": "Create a club",
+        "text": "Highlight what your club is about, add description and a feature image."
+      },
+      "step2": {
+        "label": "Step 2",
+        "title": "Invite experts",
+        "text1": "Invite your suppliers, partners, and even competitors to share the customers base. You just need to generate and send an invite link.",
+        "text0": "Experts are promoted on the club page and have equal rights."
+      },
+      "step3": {
+        "label": "Step 3",
+        "title": "Promote your club",
+        "text1": "Share the link to your club on your website and social profiles.",
+        "text0": "Encourage your current and potential customers to start discussions and ask questions in your club."
+      },
+      "step4": {
+        "label": "Step 4",
+        "title": "Turn people to customers",
+        "text1": "By giving answers, you start the dialogue with your customers even before they call or visit your business.",
+        "text0": "Give the best answers and show your expertise and customer care. Get more votes than others and build your reputation."
+      }
     },
-    "coinsRules": {
-        "title": "Addspire coins",
-        "todayDistribute": "Today we will distribute",
-        "coins": " coins",
-        "text0": "You can earn Addspire coins for making valuable contributions by asking questions, giving answers and adding comments.",
-        "text1": "There are two sources of coins: Addspire distribution and bonuses.",
-        "head": "Coins rules on Addspire - Q&A clubs with experts, reputation, and coins",
-        "addspire": {
-            "title": "Addspire distribution:",
-            "text0": {
-                "title": "Distribution plan: ",
-                "body": "Everyday Addspire distributes a part of the coins among users until all coins are distributed. The distribution will ramp up from 8 000 to 80 000 coins a day during the next 4 years."
-            },
-            "text1": {
-                "title": "Distribution steps: ",
-                "body": "First the total daily distributed coins are divided among questions depending on how popular each question is. Then, the coins in each question are divided among users who have contributed depending on the reputation of their content."
-            }
-        },
-        "bonus": {
-            "title": "Bonuses:",
-            "text2_": "<strong>Distribution: </strong>The remaining coins are distributed among users who have contributed to the content depending on the reputation of their content.",
-            "text0": {
-                "title": "Bonus inspires: ",
-                "body": "Users can encourage other users to answer their questions by adding a bonus. A bonus is a number of coins that the author of a question will distribute among contributors when an answer is accepted or in 7 days after the bonus was added."
-            },
-            "text1": {
-                "title": "Accepted answer: ",
-                "body": "If there is an accepted answer to a question, 50% of the bonus will be transferred to the author of the accepted answer."
-            },
-            "text2": {
-                "title": "Distribution: ",
-                "body": "The remaining coins are distributed among users who have contributed to the content depending on the reputation of their content."
-            }
-        },
-        "notice": "Please note, that the coins used in Addspire are an internal currency only. The coins cannot be withdrawn, deposited, bought or sold.",
-        "allCoins": {
-            "text2": "on our platform.",
-            "text1": "100 000 000 Addspire coins ",
-            "text0": "There are "
-        }
-    },
-    "reputationRules": {
-        "dataTable0": {
-            "accept": "Accepted answer",
-            "upQ": "Vote up a question or answer",
-            "downQ": "Vote down a question or answer",
-            "upC": "Vote up a comment",
-            "downC": "Vote down a comment"
-        },
-        "dataTable1": {
-            "reputation": "Reputation",
-            "voteUp": "Vote up",
-            "voteDown": "Vote down",
-            "grade": "Grade",
-            "expert": "Expert",
-            "any": "Any",
-            "unlim": "unlimited"
-        },
-        "title": "Reputation rules",
-        "text0": "Every member of a club has a reputation and it immediately shows how much contribution the user has made and how much the user is an expert in this club.",
-        "text5": "How much reputation votes give:",
-        "text6": "There is a limit to how many times each member of a club can vote.",
-        "text7": "Members with a higher reputation can vote more:",
-        "text10": "Reputation rules on Addspire - Q&A clubs with experts, reputation, and coins",
-        "text1": {
-            "title": "Role of reputation: ",
-            "body": "Users with a higher reputation have more rights and credibility. For example, in some clubs, only users with a certain reputation can start conversations."
-        },
-        "text2": {
-            "title": "Growing reputation: ",
-            "body": "You can earn a reputation by asking good questions, giving valuable answers and adding valuable comments."
-        },
-        "text3": {
-            "title": "Votes: ",
-            "body": "Anyone can vote up or down a question, answer or comment and this will add to the reputation of the author."
-        },
-        "text4": {
-            "title": "Accepted answer: ",
-            "body": "If your answer is the best, the author of the question can choose your answer as accepted. Only one answer can be accepted."
-        },
-        "text8": {
-            "title": "Negative reputation: ",
-            "body": "Users with a negative reputation cannot vote or create content in the club. Every day 5 will be added to their reputation until it becomes 0 again."
-        },
-        "text9": {
-            "title": "Banned users: ",
-            "body": "Users who do not follow the rules of a club can be banned by experts of the club. Banned members are not allowed to add content or vote in the club."
-        }
-    },
-    "footer": {
-        "apps": "Addspire also works great on your smaller screen.",
-        "copy": "Copyright © 2021 Addspire. All rights reserved.",
-        "policy": "Privacy Policy",
-        "downloadToStart": "Download our apps and start sharing knowledge"
-    },
-    "header": {
-        "about": "About",
-        "club": "Club",
-        "reputation": "Reputation",
-        "coins": "Coins",
-        "business": "For business",
-        "start": "Go to Addspire",
-        "addspire": "Addspire"
-    },
-    "head": {
-        "title": "Addspire - Q&A clubs with experts, reputation, and coins",
-        "description": "On Addspire you can discuss and answer questions and anyone can join the discussion. In a club you connect with the top experts and you can choose the best contractor or business based on the reputation and answers. As an expert or business you have a great chance to show your expertise, customer care and build reputation by giving top answers. Anyone who makes contributions in a club in the form of valuable questions, answers and comments can earn coins distributed by Addspire or rewarded as a bonus."
-    },
-    "cookie": {
-        "title": "Accept cookies from Addspire on this browser?",
-        "info": "This website uses cookies to enhance the user experience. By using this website you agree with using cookies.",
-        "policy": "Read more about cookies policy",
-        "decline": "Decline",
-        "allow": "Allow cookies"
+    "title": {
+      "text0": "Grow your ",
+      "text1": "business",
+      "text2": " with Addspire for free"
     }
+  },
+  "clubRules": {
+    "title": "Club rules",
+    "text4": "Club rules on Addspire - Q&A clubs with experts, reputation, and coins",
+    "text0": {
+      "title": "Create club: ",
+      "body": "Anyone can create a club and join it on Addspire. All clubs are public, and knowledge is available to everyone."
+    },
+    "text1": {
+      "title": "Experts and active clubs: ",
+      "body": "The creator of a club becomes the first expert of this club. Clubs can have up to 8 experts and it becomes active when there are at least 3 experts. This rule does not apply to new clubs during the first 14 days after their creation."
+    },
+    "text2": {
+      "title": "Rights and ban: ",
+      "body": "All experts of a club have the same rights: edit the club, edit and delete questions, answers and comments, add experts and ban users."
+    },
+    "text3": {
+      "title": "Delete experts: ",
+      "body": "Experts cannot delete other experts from the club that’s why we recommend you to create clubs only with people you know and trust."
+    }
+  },
+  "coinsRules": {
+    "title": "Addspire coins",
+    "todayDistribute": "Today we will distribute",
+    "coins": " coins",
+    "text0": "You can earn Addspire coins for making valuable contributions by asking questions, giving answers and adding comments.",
+    "text1": "There are two sources of coins: Addspire distribution and bonuses.",
+    "head": "Coins rules on Addspire - Q&A clubs with experts, reputation, and coins",
+    "addspire": {
+      "title": "Addspire distribution:",
+      "text0": {
+        "title": "Distribution plan: ",
+        "body": "Everyday Addspire distributes a part of the coins among users until all coins are distributed. The distribution will ramp up from 8 000 to 80 000 coins a day during the next 4 years."
+      },
+      "text1": {
+        "title": "Distribution steps: ",
+        "body": "First the total daily distributed coins are divided among questions depending on how popular each question is. Then, the coins in each question are divided among users who have contributed depending on the reputation of their content."
+      }
+    },
+    "bonus": {
+      "title": "Bonuses:",
+      "text2_": "<strong>Distribution: </strong>The remaining coins are distributed among users who have contributed to the content depending on the reputation of their content.",
+      "text0": {
+        "title": "Bonus inspires: ",
+        "body": "Users can encourage other users to answer their questions by adding a bonus. A bonus is a number of coins that the author of a question will distribute among contributors when an answer is accepted or in 7 days after the bonus was added."
+      },
+      "text1": {
+        "title": "Accepted answer: ",
+        "body": "If there is an accepted answer to a question, 50% of the bonus will be transferred to the author of the accepted answer."
+      },
+      "text2": {
+        "title": "Distribution: ",
+        "body": "The remaining coins are distributed among users who have contributed to the content depending on the reputation of their content."
+      }
+    },
+    "notice": "Please note, that the coins used in Addspire are an internal currency only. The coins cannot be withdrawn, deposited, bought or sold.",
+    "allCoins": {
+      "text2": "on our platform.",
+      "text1": "100 000 000 Addspire coins ",
+      "text0": "There are "
+    }
+  },
+  "reputationRules": {
+    "dataTable0": {
+      "accept": "Accepted answer",
+      "upQ": "Vote up a question or answer",
+      "downQ": "Vote down a question or answer",
+      "upC": "Vote up a comment",
+      "downC": "Vote down a comment"
+    },
+    "dataTable1": {
+      "reputation": "Reputation",
+      "voteUp": "Vote up",
+      "voteDown": "Vote down",
+      "grade": "Grade",
+      "expert": "Expert",
+      "any": "Any",
+      "unlim": "unlimited"
+    },
+    "title": "Reputation rules",
+    "text0": "Every member of a club has a reputation and it immediately shows how much contribution the user has made and how much the user is an expert in this club.",
+    "text5": "How much reputation votes give:",
+    "text6": "There is a limit to how many times each member of a club can vote.",
+    "text7": "Members with a higher reputation can vote more:",
+    "text10": "Reputation rules on Addspire - Q&A clubs with experts, reputation, and coins",
+    "text1": {
+      "title": "Role of reputation: ",
+      "body": "Users with a higher reputation have more rights and credibility. For example, in some clubs, only users with a certain reputation can start conversations."
+    },
+    "text2": {
+      "title": "Growing reputation: ",
+      "body": "You can earn a reputation by asking good questions, giving valuable answers and adding valuable comments."
+    },
+    "text3": {
+      "title": "Votes: ",
+      "body": "Anyone can vote up or down a question, answer or comment and this will add to the reputation of the author."
+    },
+    "text4": {
+      "title": "Accepted answer: ",
+      "body": "If your answer is the best, the author of the question can choose your answer as accepted. Only one answer can be accepted."
+    },
+    "text8": {
+      "title": "Negative reputation: ",
+      "body": "Users with a negative reputation cannot vote or create content in the club. Every day 5 will be added to their reputation until it becomes 0 again."
+    },
+    "text9": {
+      "title": "Banned users: ",
+      "body": "Users who do not follow the rules of a club can be banned by experts of the club. Banned members are not allowed to add content or vote in the club."
+    }
+  },
+  "footer": {
+    "apps": "Addspire also works great on your smaller screen.",
+    "copy": "Copyright © 2021 Addspire. All rights reserved.",
+    "policy": "Privacy Policy",
+    "downloadToStart": "Download our apps and start sharing knowledge"
+  },
+  "header": {
+    "about": "About",
+    "club": "Club",
+    "reputation": "Reputation",
+    "coins": "Coins",
+    "business": "For business",
+    "start": "Go to Addspire",
+    "addspire": "Addspire"
+  },
+  "head": {
+    "title": "Addspire - Q&A clubs with experts, reputation, and coins",
+    "description": "On Addspire you can discuss and answer questions and anyone can join the discussion. In a club you connect with the top experts and you can choose the best contractor or business based on the reputation and answers. As an expert or business you have a great chance to show your expertise, customer care and build reputation by giving top answers. Anyone who makes contributions in a club in the form of valuable questions, answers and comments can earn coins distributed by Addspire or rewarded as a bonus."
+  },
+  "cookie": {
+    "title": "Accept cookies from Addspire on this browser?",
+    "info": "This website uses cookies to enhance the user experience. By using this website you agree with using cookies.",
+    "policy": "Read more about cookies policy",
+    "decline": "Decline",
+    "allow": "Allow cookies"
+  }
 }
